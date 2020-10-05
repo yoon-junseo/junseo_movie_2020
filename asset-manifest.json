@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/junseo_movie_2020/static/css/main.578e030e.chunk.css",
+    "main.js": "/junseo_movie_2020/static/js/main.213d1862.chunk.js",
+    "main.js.map": "/junseo_movie_2020/static/js/main.213d1862.chunk.js.map",
+    "runtime-main.js": "/junseo_movie_2020/static/js/runtime-main.3444a8b2.js",
+    "runtime-main.js.map": "/junseo_movie_2020/static/js/runtime-main.3444a8b2.js.map",
+    "static/js/2.e6039046.chunk.js": "/junseo_movie_2020/static/js/2.e6039046.chunk.js",
+    "static/js/2.e6039046.chunk.js.map": "/junseo_movie_2020/static/js/2.e6039046.chunk.js.map",
+    "index.html": "/junseo_movie_2020/index.html",
+    "precache-manifest.ec7a7adf16a65caf30ee78288c7bf818.js": "/junseo_movie_2020/precache-manifest.ec7a7adf16a65caf30ee78288c7bf818.js",
+    "service-worker.js": "/junseo_movie_2020/service-worker.js",
+    "static/css/main.578e030e.chunk.css.map": "/junseo_movie_2020/static/css/main.578e030e.chunk.css.map",
+    "static/js/2.e6039046.chunk.js.LICENSE.txt": "/junseo_movie_2020/static/js/2.e6039046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3444a8b2.js",
+    "static/js/2.e6039046.chunk.js",
+    "static/css/main.578e030e.chunk.css",
+    "static/js/main.213d1862.chunk.js"
+  ]
+}
